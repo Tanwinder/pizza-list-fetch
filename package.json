@@ -1,14 +1,14 @@
 {
-  "name": "front-end-test",
+  "name": "pizza-list",
   "version": "1.0.0",
-  "description": "A test for prospective front-end developers",
+  "description": "fetch pizza list",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "mocha test"
   },
-  "author": "John Deere",
-  "license": "Copyright © 2017 Deere & Company",
+  "author": "singh security",
+  "license": "Copyright © 3017 singh security",
   "dependencies": {
     "isomorphic-fetch": "2.2.1"
   },
